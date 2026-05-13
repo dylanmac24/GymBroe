@@ -1,9 +1,5 @@
-//
-//  ExerciseSet.swift
+// ExerciseSet.swift
 //  GymBroe
-//
-//  Created by Dylan on 15/12/2025.
-//
 
 import Foundation
 import SwiftData
