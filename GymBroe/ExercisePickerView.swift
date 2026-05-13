@@ -1,9 +1,5 @@
-//
-//  ExercisePickerView.swift
+// ExercisePickerView.swift
 //  GymBroe
-//
-//  Created by Dylan on 12/12/2025.
-//
 
 import SwiftUI
 import SwiftData
