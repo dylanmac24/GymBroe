@@ -1,9 +1,5 @@
-//
-//  Haptics.swift
+// Haptics.swift
 //  GymBroe
-//
-//  Created by Dylan on 13/12/2025.
-//
 
 import UIKit
 
